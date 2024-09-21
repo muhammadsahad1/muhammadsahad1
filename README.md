@@ -26,21 +26,13 @@
 
 # About Me :man_technologist:
 
-:sparkles: Passionate Web Developer | MERN Stack Expert | E-commerce and Social Media Specialist
+✨ Full-Stack Developer | MERN Stack Enthusiast | E-commerce & Social Media Innovator
 
-I'm Muhammad Sahad, a dedicated and enthusiastic full-stack developer with a strong passion for crafting innovative web solutions. My expertise lies in building robust, scalable applications using the MERN stack (MongoDB, Express.js, React, Node.js).
+🔥 Passionate developer crafting cutting-edge web solutions. 💡
+🛠️ Skilled in MERN stack, e-commerce platforms, and social media integrations. 📈
+🌟 Building scalable applications that drive business growth and user engagement. 🔗
 
-With a keen interest in e-commerce and social media platforms, I've applied my skills to develop various projects, ranging from small-scale personal websites to complex business applications. My portfolio showcases a blend of both main projects and mini-projects, demonstrating my versatility and commitment to continuous learning.
+Portfolio: [i will add] 🖼️
+Contact: muhammadsahad2022@gmail.com ✉️ | LinkedIn: https://www.linkedin.com/in/muhammad-sahad-108a83290/ 
 
-My journey in web development has been marked by:
-
-- Developing responsive e-commerce sites with seamless user experiences
-- Creating engaging social media integrations
-- Implementing efficient backend APIs using Node.js and Express.js
-- Building interactive frontend interfaces with React and Redux
-- Optimizing database performance with MongoDB
-
-I'm constantly seeking opportunities to expand my knowledge and contribute to open-source projects. My enthusiasm for web development drives me to stay up-to-date with the latest trends and technologies in the field.
-
-Feel free to reach out at muhammadsahad2022@gmail.com to discuss potential collaborations or learn more about my projects!
-
+Let's collaborate on innovative web projects! 💬
